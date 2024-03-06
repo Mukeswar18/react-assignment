@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import { Board } from "./componens/Board";
-import { ResetButton } from "./componens/ResetButton";
-import { ScoreBoard } from "./componens/ScoreBoard";
+import { Board } from "./components/Board";
+import { ResetButton } from "./components/ResetButton";
+import { ScoreBoard } from "./components/ScoreBoard";
 import './App.css';
 
 const App = () => {
